@@ -8,26 +8,17 @@ class Node:
 
 class Solution:
     def cloneGraph(self, node: 'Node') -> 'Node':
-        if node is None:
-            return None
-        map = defaultdict(Node)
-        self.duplicate(node, map)
-        self.copied = {}
-        return self.copy(node, map)
+        oldToNew = {}
         
-    def duplicate(self, node, map):
-        map[node].val = node.val
-        for i in node.neighbors:
-            if i not in map:
-                self.duplicate(i, map)
-                
-    def copy(self, node, map):
-        c = map[node]
-        self.copied[node] = c
-        for i in node.neighbors:
-            if i not in self.copied:
-                c.neighbors.append(self.copy(i, map))
-            else:
-                c.neighbors.append(self.copied[i])
-        return c
+        def dfs(node):
+            if node in oldToNew:
+                return oldToNew[node]
+            
+            copy = Node(node.val)
+            oldToNew[node] = copy
+            for nei in node.neighbors:
+                copy.neighbors.append(dfs(nei))
+            return copy
+        
+        return dfs(node) if node else None
     
