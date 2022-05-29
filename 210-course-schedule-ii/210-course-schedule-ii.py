@@ -15,10 +15,6 @@ class Solution:
                 return False
             if crs in done:
                 return True
-            if preMap[crs] == []:
-                order.append(crs)
-                done.add(crs)
-                return True
             
             visiting.add(crs)
             for pre in preMap[crs]:
