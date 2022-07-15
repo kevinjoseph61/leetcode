@@ -10,7 +10,7 @@ class Solution:
                 
                 area += 1
                 ma = max(ma, area)
-                print(area, ma)
+                #print(area, ma)
                 visit.add((r,c))
             else:
                 return
