@@ -6,7 +6,8 @@ class Solution:
             if amount[1]:
                 amount[0], amount[1] = amount[0] - 1, amount[1] - 1
             else:
-                amount[0] -= 1
+                time += amount[0]
+                break
             amount.sort(reverse=True)
             time += 1
         return time
