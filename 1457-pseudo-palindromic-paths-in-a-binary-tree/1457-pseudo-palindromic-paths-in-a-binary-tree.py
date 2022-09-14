@@ -11,22 +11,16 @@ class Solution:
             nonlocal ans
             if not node:
                 return
-            count[node.val - 1] += 1
+            count ^= (1 << node.val)
             
             if node.left is None and node.right is None:
-                odd = False
-                for i in count:
-                    if i % 2 == 1:
-                        if odd:
-                            return
-                        else:
-                            odd = True
-                ans += 1
-                
-            countR = count.copy()
+                if count & count-1 == 0:
+                    ans += 1
+                return
+            
             generate(node.left, count)
-            generate(node.right, countR)
+            generate(node.right, count)
         
         ans = 0
-        generate(root, [0, 0, 0, 0, 0, 0, 0, 0, 0])
+        generate(root, 0)
         return ans
