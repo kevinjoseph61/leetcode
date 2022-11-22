@@ -1,5 +1,9 @@
-class Solution:
-    def numSquares(self, n: int) -> int:
+class Solution(object):
+    def numSquares(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
         arr, i = [], 1
         while i**2 <= n:
             arr.append(i**2)
