@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kevinjoseph61/leetcode/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/kevinjoseph61/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/kevinjoseph61/leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/kevinjoseph61/leetcode/tree/master/0876-hand-of-straights) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kevinjoseph61/leetcode/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/kevinjoseph61/leetcode/tree/master/0876-hand-of-straights) |
 # String
 |  |
@@ -41,3 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kevinjoseph61/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kevinjoseph61/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kevinjoseph61/leetcode/tree/master/0075-sort-colors) |
