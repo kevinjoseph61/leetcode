@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/kevinjoseph61/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/kevinjoseph61/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kevinjoseph61/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
 | ------- |
@@ -147,9 +148,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kevinjoseph61/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kevinjoseph61/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kevinjoseph61/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kevinjoseph61/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## String
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
