@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/kevinjoseph61/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kevinjoseph61/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kevinjoseph61/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/kevinjoseph61/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -231,4 +232,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/kevinjoseph61/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kevinjoseph61/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
