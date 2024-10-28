@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kevinjoseph61/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kevinjoseph61/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/kevinjoseph61/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2586-longest-square-streak-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kevinjoseph61/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kevinjoseph61/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/kevinjoseph61/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kevinjoseph61/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kevinjoseph61/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kevinjoseph61/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kevinjoseph61/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2586-longest-square-streak-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -222,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/kevinjoseph61/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kevinjoseph61/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/kevinjoseph61/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Stack
 |  |
 | ------- |
