@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/kevinjoseph61/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3394-minimum-array-end](https://github.com/kevinjoseph61/leetcode/tree/master/3394-minimum-array-end) |
 ## Enumeration
 |  |
 | ------- |
