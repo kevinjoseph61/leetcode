@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kevinjoseph61/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/kevinjoseph61/leetcode/tree/master/1304-longest-happy-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/kevinjoseph61/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/kevinjoseph61/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kevinjoseph61/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kevinjoseph61/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kevinjoseph61/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kevinjoseph61/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kevinjoseph61/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kevinjoseph61/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kevinjoseph61/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kevinjoseph61/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -288,14 +291,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kevinjoseph61/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/kevinjoseph61/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kevinjoseph61/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kevinjoseph61/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kevinjoseph61/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kevinjoseph61/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kevinjoseph61/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
