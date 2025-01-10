@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/kevinjoseph61/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kevinjoseph61/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/0952-word-subsets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kevinjoseph61/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kevinjoseph61/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kevinjoseph61/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/kevinjoseph61/leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0952-word-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/kevinjoseph61/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kevinjoseph61/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/kevinjoseph61/leetcode/tree/master/1304-longest-happy-string) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kevinjoseph61/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kevinjoseph61/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kevinjoseph61/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
