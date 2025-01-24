@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/kevinjoseph61/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kevinjoseph61/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/kevinjoseph61/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/kevinjoseph61/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/kevinjoseph61/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/kevinjoseph61/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kevinjoseph61/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/kevinjoseph61/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/kevinjoseph61/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0820-find-eventual-safe-states](https://github.com/kevinjoseph61/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/kevinjoseph61/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kevinjoseph61/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/kevinjoseph61/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/kevinjoseph61/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kevinjoseph61/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kevinjoseph61/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
