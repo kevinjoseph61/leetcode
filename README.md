@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/kevinjoseph61/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kevinjoseph61/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kevinjoseph61/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/kevinjoseph61/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kevinjoseph61/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Sorting
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2201-valid-arrangement-of-pairs](https://github.com/kevinjoseph61/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kevinjoseph61/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kevinjoseph61/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/kevinjoseph61/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kevinjoseph61/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kevinjoseph61/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kevinjoseph61/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/kevinjoseph61/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/kevinjoseph61/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/kevinjoseph61/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2793-count-the-number-of-complete-components](https://github.com/kevinjoseph61/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kevinjoseph61/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kevinjoseph61/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Math
