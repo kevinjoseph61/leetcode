@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-maximum-total-importance-of-roads](https://github.com/kevinjoseph61/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kevinjoseph61/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kevinjoseph61/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kevinjoseph61/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Graph
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kevinjoseph61/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kevinjoseph61/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kevinjoseph61/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kevinjoseph61/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kevinjoseph61/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/kevinjoseph61/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kevinjoseph61/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kevinjoseph61/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2645-pass-the-pillow](https://github.com/kevinjoseph61/leetcode/tree/master/2645-pass-the-pillow) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kevinjoseph61/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kevinjoseph61/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kevinjoseph61/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/kevinjoseph61/leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kevinjoseph61/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kevinjoseph61/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kevinjoseph61/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kevinjoseph61/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -412,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kevinjoseph61/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kevinjoseph61/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kevinjoseph61/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kevinjoseph61/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/kevinjoseph61/leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -484,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kevinjoseph61/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kevinjoseph61/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
 |  |
 | ------- |
@@ -511,4 +517,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/kevinjoseph61/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
