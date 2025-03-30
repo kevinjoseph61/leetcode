@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/kevinjoseph61/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0768-partition-labels](https://github.com/kevinjoseph61/leetcode/tree/master/0768-partition-labels) |
 | [1304-longest-happy-string](https://github.com/kevinjoseph61/leetcode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kevinjoseph61/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/kevinjoseph61/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/kevinjoseph61/leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0768-partition-labels](https://github.com/kevinjoseph61/leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/kevinjoseph61/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kevinjoseph61/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kevinjoseph61/leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kevinjoseph61/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/0952-word-subsets) |
@@ -364,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kevinjoseph61/leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kevinjoseph61/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kevinjoseph61/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kevinjoseph61/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
