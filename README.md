@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/kevinjoseph61/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kevinjoseph61/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/kevinjoseph61/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kevinjoseph61/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/kevinjoseph61/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/kevinjoseph61/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/kevinjoseph61/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kevinjoseph61/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/kevinjoseph61/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kevinjoseph61/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/kevinjoseph61/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kevinjoseph61/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/0952-word-subsets) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kevinjoseph61/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kevinjoseph61/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kevinjoseph61/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kevinjoseph61/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kevinjoseph61/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/kevinjoseph61/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kevinjoseph61/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kevinjoseph61/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -442,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kevinjoseph61/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/kevinjoseph61/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kevinjoseph61/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Linked List
