@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kevinjoseph61/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kevinjoseph61/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kevinjoseph61/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1656-count-good-triplets](https://github.com/kevinjoseph61/leetcode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kevinjoseph61/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kevinjoseph61/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kevinjoseph61/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/kevinjoseph61/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kevinjoseph61/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kevinjoseph61/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3548-find-the-count-of-good-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3548-find-the-count-of-good-integers) |
