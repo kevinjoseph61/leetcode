@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/kevinjoseph61/leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kevinjoseph61/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kevinjoseph61/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kevinjoseph61/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kevinjoseph61/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kevinjoseph61/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kevinjoseph61/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/kevinjoseph61/leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/kevinjoseph61/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kevinjoseph61/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/kevinjoseph61/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/kevinjoseph61/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |
