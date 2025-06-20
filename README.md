@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kevinjoseph61/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/kevinjoseph61/leetcode/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kevinjoseph61/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kevinjoseph61/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kevinjoseph61/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Shortest Path
 |  |
 | ------- |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kevinjoseph61/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kevinjoseph61/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kevinjoseph61/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kevinjoseph61/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -493,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/kevinjoseph61/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kevinjoseph61/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kevinjoseph61/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kevinjoseph61/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
