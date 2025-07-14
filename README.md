@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/kevinjoseph61/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0564-find-the-closest-palindrome](https://github.com/kevinjoseph61/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/kevinjoseph61/leetcode/tree/master/0650-2-keys-keyboard) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kevinjoseph61/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kevinjoseph61/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kevinjoseph61/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kevinjoseph61/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kevinjoseph61/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/kevinjoseph61/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kevinjoseph61/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
