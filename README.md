@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/kevinjoseph61/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kevinjoseph61/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kevinjoseph61/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/kevinjoseph61/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kevinjoseph61/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/kevinjoseph61/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kevinjoseph61/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/kevinjoseph61/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kevinjoseph61/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kevinjoseph61/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/kevinjoseph61/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kevinjoseph61/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kevinjoseph61/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/kevinjoseph61/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kevinjoseph61/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/kevinjoseph61/leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kevinjoseph61/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kevinjoseph61/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kevinjoseph61/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kevinjoseph61/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -696,4 +699,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kevinjoseph61/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kevinjoseph61/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kevinjoseph61/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
