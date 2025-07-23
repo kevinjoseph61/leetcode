@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kevinjoseph61/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kevinjoseph61/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kevinjoseph61/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kevinjoseph61/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/kevinjoseph61/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/kevinjoseph61/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kevinjoseph61/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kevinjoseph61/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kevinjoseph61/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kevinjoseph61/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kevinjoseph61/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kevinjoseph61/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kevinjoseph61/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kevinjoseph61/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/kevinjoseph61/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kevinjoseph61/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kevinjoseph61/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kevinjoseph61/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kevinjoseph61/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kevinjoseph61/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
