@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/kevinjoseph61/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kevinjoseph61/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kevinjoseph61/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/kevinjoseph61/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kevinjoseph61/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kevinjoseph61/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
