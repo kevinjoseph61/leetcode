@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kevinjoseph61/leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/kevinjoseph61/leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/kevinjoseph61/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/kevinjoseph61/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/kevinjoseph61/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -542,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kevinjoseph61/leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/kevinjoseph61/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/kevinjoseph61/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0868-push-dominoes](https://github.com/kevinjoseph61/leetcode/tree/master/0868-push-dominoes) |
