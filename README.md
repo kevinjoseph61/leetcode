@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kevinjoseph61/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/kevinjoseph61/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kevinjoseph61/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kevinjoseph61/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kevinjoseph61/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3790-fruits-into-baskets-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kevinjoseph61/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kevinjoseph61/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kevinjoseph61/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kevinjoseph61/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
 |  |
 | ------- |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kevinjoseph61/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kevinjoseph61/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Stack
 |  |
 | ------- |
