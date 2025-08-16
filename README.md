@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/kevinjoseph61/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kevinjoseph61/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kevinjoseph61/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kevinjoseph61/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kevinjoseph61/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kevinjoseph61/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kevinjoseph61/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kevinjoseph61/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kevinjoseph61/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kevinjoseph61/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/kevinjoseph61/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kevinjoseph61/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
