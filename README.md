@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kevinjoseph61/leetcode/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/kevinjoseph61/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kevinjoseph61/leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/kevinjoseph61/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kevinjoseph61/leetcode/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/kevinjoseph61/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/kevinjoseph61/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/kevinjoseph61/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kevinjoseph61/leetcode/tree/master/0036-valid-sudoku) |
 | [0768-partition-labels](https://github.com/kevinjoseph61/leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kevinjoseph61/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kevinjoseph61/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
