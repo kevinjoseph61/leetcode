@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2580-circular-sentence](https://github.com/kevinjoseph61/leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/kevinjoseph61/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kevinjoseph61/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kevinjoseph61/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kevinjoseph61/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-minimum-total-distance-traveled](https://github.com/kevinjoseph61/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kevinjoseph61/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kevinjoseph61/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kevinjoseph61/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kevinjoseph61/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kevinjoseph61/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/kevinjoseph61/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kevinjoseph61/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kevinjoseph61/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kevinjoseph61/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -804,4 +807,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kevinjoseph61/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
