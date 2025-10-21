@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kevinjoseph61/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/kevinjoseph61/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kevinjoseph61/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/kevinjoseph61/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kevinjoseph61/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kevinjoseph61/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kevinjoseph61/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/kevinjoseph61/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kevinjoseph61/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/kevinjoseph61/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kevinjoseph61/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kevinjoseph61/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
@@ -719,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kevinjoseph61/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kevinjoseph61/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/kevinjoseph61/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
@@ -736,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kevinjoseph61/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
