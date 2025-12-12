@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kevinjoseph61/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kevinjoseph61/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/kevinjoseph61/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/kevinjoseph61/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kevinjoseph61/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3433-count-mentions-per-user](https://github.com/kevinjoseph61/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3548-find-the-count-of-good-integers](https://github.com/kevinjoseph61/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kevinjoseph61/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/kevinjoseph61/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2645-pass-the-pillow](https://github.com/kevinjoseph61/leetcode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kevinjoseph61/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3433-count-mentions-per-user](https://github.com/kevinjoseph61/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kevinjoseph61/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/kevinjoseph61/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -428,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kevinjoseph61/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3430-count-days-without-meetings](https://github.com/kevinjoseph61/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/kevinjoseph61/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kevinjoseph61/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kevinjoseph61/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
