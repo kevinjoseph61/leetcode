@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/kevinjoseph61/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kevinjoseph61/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kevinjoseph61/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kevinjoseph61/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/kevinjoseph61/leetcode/tree/master/3447-clear-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/kevinjoseph61/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kevinjoseph61/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kevinjoseph61/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kevinjoseph61/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
